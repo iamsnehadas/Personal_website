@@ -1,0 +1,24 @@
+body{
+    background-color: #E9DAC1;
+}
+hr{
+    /*background-color: aliceblue;*/
+    border-color: aliceblue;
+    /*border-style: dotted none none;*/
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    height: 0px;
+    width: 20%;
+}
+img{
+    border-style: inset;
+    border-color: rgb(151, 135, 105);
+    border-width: 4px;
+}
+h3{
+    color: rgb(32, 29, 31);
+}
+h1{
+    color: rgb(49, 46, 48);
+}
