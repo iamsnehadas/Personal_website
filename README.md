@@ -2,5 +2,6 @@
 
 <p>https://iamsnehadas.github.io/Personal_website/</p>
 
-<p>Hello! I am Sneha Das and this is my personal website :)</p>
-This is also my first website and I have built is site using HTML and CSS.
+<p>Hello! I am Sneha Das :)</p>
+This is my personal website, built using HTML and CSS.
+This is my first website.
